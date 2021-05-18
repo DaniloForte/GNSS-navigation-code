@@ -1,0 +1,5 @@
+kernels/ filter=lfs diff=lfs merge=lfs -text
+*.bsp filter=lfs diff=lfs merge=lfs -text
+*.tpc filter=lfs diff=lfs merge=lfs -text
+.tpc filter=lfs diff=lfs merge=lfs -text
+.bsp filter=lfs diff=lfs merge=lfs -text
